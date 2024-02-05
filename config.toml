@@ -1,0 +1,20 @@
+baseURL = "http://tiagonevestia.com.br/"
+languageCode = "pt-br"
+title = "Tiago Neves Tech"
+theme = "risotto"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/tiagonevestia"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:tiagoneves.tia@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/tiagonevestia"
+
